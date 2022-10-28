@@ -1,0 +1,37 @@
+@import "reset.css";
+@import "content.css";
+@font-face {
+  font-family: "HK Grotesk";
+  src:url('fonts/HKGrotesk-Bold.oet');
+  src: url('fonts/HKGrotesk-Bold.woff2'),
+   url('Webfonts/HKGrotesk-Bold.woff');
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: "HK Grotesk";
+  src:url('fonts/HKGrotesk-Light.oet');
+  src: url('fonts/HKGrotesk-Light.woff2'),
+  url('Webfonts/HKGrotesk-Light.woff');
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+@font-face {
+  font-family: "HK Grotesk";
+  src:url('fonts/HKGrotesk-Medium.oet');
+  src: url('fonts/HKGrotesk-Medium.woff2'),
+  url('Webfonts/HKGrotesk-Medium.woff');
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "HK Grotesk";
+  src:url('fonts/HKGrotesk-Bold.oet');
+  src: url('fonts/HKGrotesk-Regular.woff2'),
+  url('Webfonts/HKGrotesk-Regular.woff');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
